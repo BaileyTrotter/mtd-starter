@@ -7,7 +7,7 @@
     "data": [
         {
             "manifest": "./manifest.json",
-            "resource": "../data/SFN Dictionary.csv"
+            "resource": "../data/data.csv"
         }
     ]
 }
