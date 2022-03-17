@@ -1,6 +1,6 @@
 {
     "file_type": "csv",
-    "name": "data",
+    "name": "SFN Dictionary",
     "display": "word",
     "compare": "compare_form",
     "sorting": "sort_form",
