@@ -1,73 +1,73 @@
-﻿bird (any),chuan
-bird egg,chuan ghró'
-bird feather,chuan tró'
-bird nest,chuan t'o
-bird wing,chuan t'é'
-blackbird,tetl'rua
-bluebird,chuan denintl'run
-camp robber,ts'ónk'e
-crane,dya
-duck (any),"tyat, chat"
-canvasback,ndaak ttho
-gadwall,tlin tsén sro
-goldeneye,tthék'í'
-"grebe, eared",dát utthí' dettho
-"grebe, horned",dát zra
-"grebe, red-neck",dát cho
-harlequin,tagéa hutyát
-mallard,nát'ak
-merganser,tyok tyát
-old squaw,ah'alé'
-pintail,dzendyó'
-scuap,tyat tthí' denintl'run
-"scoter, common",tyat denét'ro
-"scoter, surf",tthetsáán' áw'
-"scoter, white-wing ",ndáw'
-shoveler,datak
-teal,tyat jaada
-widgeon,shashin
-"eagle, bald",ge saya; túnde
-"eagle, golden",thak
-flycatcher,chuan dettho
-goldfinch (?),dzuan ttho zra
-"goose, snow",khe
-"goose, white-tronted",tádhák
-"grouse, blue",di cho
-"grouse, ruffer",intrá'; inták
-"grouse, spruce",di; dan dí'
-"grouse, willow",intth'ún'
-gull,méhk'én'; mék'én'
-"gull, Bonaparte's",méhk'én' utthí'
-?? ,denét'ro
-hawk,únzi
-kingfisher,téch'áw'
-"loon, Arctic",tth'émbí'
-"loon, common",tútsay
-"loon, red-neck",tuch'aat
-magpie,ts'ónk'e zayn
-osprey,t'o ts'yá'
-"owl, great grey",etthédzaat; etthélí'
-"owl, great horned",méddhin
-"owl, small grey",nédé' ts'é'yaana
-"owl, snowy",nédé; náhdé'
-phalarope,degay undáya
-pine grosbeak,tagok ndoa
-ptarmigan,tthet'o dzyawa
-raven,ts'ek'
-redpoll,damba
-robin,tútsi
-sandpiper,tadrua
-shrike,dzech'un; dzéhch'un
-snipe (?),tach'aat
-sparrow,gun chuan
-Stellar's jay,tet'oka
-"swallow, barn",tthaw ninzyaana
-"swallow, cliff",tetlok zyawa
-swan,degay; tagok
-warbler,chuan detthoa
-winter birds,ts'ágaan; huk'a dlína
-woodcock (?),yadhok
-woodpecker,tso esháwa
-"woodpecker, 3-toe",etsána
-unidentified bird (#1),inlyát
-unidentified bird (#2),dzak damba
+1,bird (any),chuan
+2,bird egg,chuan ghró'
+3,bird feather,chuan tró'
+4,bird nest,chuan t'o
+5,bird wing,chuan t'é'
+6,blackbird,tetl'rua
+7,bluebird,chuan denintl'run
+8,camp robber,ts'ónk'e
+9,crane,dya
+10,duck (any),"tyat, chat"
+11,canvasback,ndaak ttho
+12,gadwall,tlin tsén sro
+13,goldeneye,tthék'í'
+14,"grebe, eared",dát utthí' dettho
+15,"grebe, horned",dát zra
+16,"grebe, red-neck",dát cho
+17,harlequin,tagéa hutyát
+18,mallard,nát'ak
+19,merganser,tyok tyát
+20,old squaw,ah'alé'
+21,pintail,dzendyó'
+22,scuap,tyat tthí' denintl'run
+23,"scoter, common",tyat denét'ro
+24,"scoter, surf",tthetsáán' áw'
+25,"scoter, white-wing ",ndáw'
+26,shoveler,datak
+27,teal,tyat jaada
+28,widgeon,shashin
+29,"eagle, bald",ge saya; túnde
+30,"eagle, golden",thak
+31,flycatcher,chuan dettho
+32,goldfinch (?),dzuan ttho zra
+33,"goose, snow",khe
+34,"goose, white-tronted",tádhák
+35,"grouse, blue",di cho
+36,"grouse, ruffer",intrá'; inták
+37,"grouse, spruce",di; dan dí'
+38,"grouse, willow",intth'ún'
+39,gull,méhk'én'; mék'én'
+40,"gull, Bonaparte's",méhk'én' utthí'
+41,?? ,denét'ro
+42,hawk,únzi
+43,kingfisher,téch'áw'
+44,"loon, Arctic",tth'émbí'
+45,"loon, common",tútsay
+46,"loon, red-neck",tuch'aat
+47,magpie,ts'ónk'e zayn
+48,osprey,t'o ts'yá'
+49,"owl, great grey",etthédzaat; etthélí'
+50,"owl, great horned",méddhin
+51,"owl, small grey",nédé' ts'é'yaana
+52,"owl, snowy",nédé; náhdé'
+53,phalarope,degay undáya
+54,pine grosbeak,tagok ndoa
+55,ptarmigan,tthet'o dzyawa
+56,raven,ts'ek'
+57,redpoll,damba
+58,robin,tútsi
+59,sandpiper,tadrua
+60,shrike,dzech'un; dzéhch'un
+61,snipe (?),tach'aat
+62,sparrow,gun chuan
+63,Stellar's jay,tet'oka
+64,"swallow, barn",tthaw ninzyaana
+65,"swallow, cliff",tetlok zyawa
+66,swan,degay; tagok
+67,warbler,chuan detthoa
+68,winter birds,ts'ágaan; huk'a dlína
+69,woodcock (?),yadhok
+70,woodpecker,tso esháwa
+71,"woodpecker, 3-toe",etsána
+72,unidentified bird (#1),inlyát
+73,unidentified bird (#2),dzak damba
