@@ -2,7 +2,6 @@
     "config": {
         "L1": "English",
         "L2": "Nothern Tutchone",
-        "optional_field_title": "Optional Info",
         "alphabet": "../alphabet.csv"
     },
     "data": [
