@@ -1,1 +1,1 @@
-var config = {"L1": {"name": "English", "lettersInLanguage": ["d", "dh", "ddh", "a", "w"], "transducers": {"SFN-approx": [{"z": "\\ g"}]}}, "L2": {"name": "Nothern Tutchone"}, "build": "202206072248"}
+var config = {"L1": {"name": "English", "lettersInLanguage": ["d", "dh", "ddh", "a", "w"], "transducers": {"SFN-approx": [{"z": "\\ g"}]}}, "L2": {"name": "Nothern Tutchone"}, "build": "202206072249"}
