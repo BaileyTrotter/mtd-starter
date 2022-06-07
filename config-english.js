@@ -1,1 +1,1 @@
-var config = {"L1": {"name": "English", "lettersInLanguage": ["z", "a", "p", "o", "g", "i", "r", "d"], "transducers": {"SFN-approx": [{"z": "\\ g"}, {"z": "\\ p"}, {"g": "\\ p"}]}}, "L2": {"name": "Nothern Tutchone"}, "build": "202206072343"}
+var config = {"L1": {"name": "English", "lettersInLanguage": ["z", "a", "p", "o", "g", "i", "r", "d"], "transducers": {"SFN-approx": [{"d": "\\ dh"}, {"d": "\\ ddh"}, {"ddh": "\\ dh"}]}}, "L2": {"name": "Nothern Tutchone"}, "build": "202206072343"}
