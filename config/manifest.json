@@ -1,6 +1,6 @@
 {
     "file_type": "csv",
-    "name": "data",
+    "name": "birds",
     "display": "words",
     "compare": "compare_form",
     "sorting": "sort_form",
