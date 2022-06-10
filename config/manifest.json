@@ -21,8 +21,13 @@
         }
     ],
     "targets": {
-        "entryID": "0",
-        "definition": "1",
-        "word": "2"
+        "definition": "0",
+        "word": "1",
+        "audio": [
+            {
+                "filename": "2",
+                "speaker": "3"
+            }
+        ]
     }
 }
