@@ -23,10 +23,14 @@
     "targets": {
         "definition": "0",
         "word": "1",
-        "audio": [
+        "optional": [
             {
-                "filename": "2",
-                "speaker": "3"
+                "audio": [
+                    {
+                        "filename": "2",
+                        "speaker": "3"
+                    }
+                ]
             }
         ]
     }
