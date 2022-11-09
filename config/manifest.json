@@ -1,6 +1,6 @@
 {
     "file_type": "csv",
-    "name": "words",
+    "name": "data",
     "display": "word",
     "compare": "compare_form",
     "sorting": "sort_form",
@@ -21,16 +21,15 @@
         }
     ],
     "targets": {
-        "entryID": "0",
-        "definition": "1",
-        "word": "2",
+        "entry": "1",
+        "translation": "2",
+        "theme": "3",
         "audio": [
             {
-                "speaker": "3",
-                "filename": "4"
+                "speaker": "4",
+                "filename": "5"
             }
         ],
-        "theme": "5",
         "optional": [
             {
                 "Pronunciation": "6"
