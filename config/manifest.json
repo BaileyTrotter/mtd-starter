@@ -9,7 +9,7 @@
             "source": "word",
             "target": "compare_form",
             "functions": [
-                "../transducers/danish-approx.yaml"
+                "../transducers/SFN-approx.yaml"
             ]
         },
         {
@@ -21,18 +21,14 @@
         }
     ],
     "targets": {
-        "entry": "1",
-        "translation": "2",
+        "translation": "1",
+        "word": "2",
         "theme": "3",
-        "audio": [
-            {
-                "speaker": "4",
-                "filename": "5"
-            }
-        ],
         "optional": [
             {
-                "Pronunciation": "6"
+                "Pronunciation": "4",
+                "speaker": "5",
+                "filename: "6"
             }
         ]
     }
