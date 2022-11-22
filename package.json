@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roedoejet/mtd-starter.git"
+    "url": "git+https://github.com/baileytrotter/mtd-starter.git"
   },
   "keywords": [],
   "author": "",
   "license": "",
   "bugs": {
-    "url": "https://github.com/roedoejet/mtd-starter/issues"
+    "url": "https://github.com/baileytrotter/mtd-starter/issues"
   },
-  "homepage": "https://github.com/roedoejet/mtd-starter#readme",
+  "homepage": "https://github.com/baileytrotter/mtd-starter#readme",
   "dependencies": {
     "@commitlint/config-conventional": "^8.3.4",
     "commitlint": "^8.3.5",
