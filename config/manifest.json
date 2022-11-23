@@ -21,7 +21,7 @@
         }
     ],
     "targets": {
-        "translation": "1",
+        "definition": "1",
         "word": "2",
         "theme": "3",
         "optional": [
