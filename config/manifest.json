@@ -24,11 +24,15 @@
         "definition": "0",
         "word": "1",
         "theme": "2",
+        "audio":[
+            {
+                "speaker": "3",
+                "filename": "4"
+            }
+        ],
         "optional": [
             {
-                "Pronunciation": "3",
-                "speaker": "4",
-                "filename": "5"
+                "Pronunciation": "5",
             }
         ]
     }
