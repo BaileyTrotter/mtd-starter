@@ -1,5 +1,4 @@
-﻿EN,NT,Sem. Cat.
-bird (any) ,chuan,birds
+bird (any) ,chuan,birds,
 bird egg,chuan ghróʼ,birds
 bird feather,chuan tróʼ,birds
 bird nest,chuan tʼo,birds
@@ -9,7 +8,7 @@ bluebird,chuan denintlʼrun,birds
 camp robber,tsʼónkʼe,birds
 crane,dya,birds
 duck (any) ,tyat,birds
-duck (any) ,chat,birds
+duck (any) ,chat,birds,,SJ,duck.wav
 canvasback,ndaak ttho,birds
 gadwall,tlin tsén sro,birds
 goldeneye,tthékʼíʼ,birds
