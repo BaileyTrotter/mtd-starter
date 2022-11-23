@@ -2,21 +2,21 @@
     "file_type": "csv",
     "name": "data",
     "display": "word",
-    "sorting": "sort_form",
     "compare": "compare_form",
+    "sorting": "sort_form",
     "transducers": [
         {
             "source": "word",
             "target": "compare_form",
             "functions": [
-                "../transducers/SFN-approx.json"
+                "../transducers/SFN-approx.yaml"
             ]
         },
         {
             "source": "word",
-            "target": "upper_form",
+            "target": "sort_form",
             "functions": [
-                "lambda x: x.upper()"
+                "lambda x: x.lower()"
             ]
         }
     ],
