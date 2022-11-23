@@ -35,5 +35,10 @@
                 "Pronunciation": "5"
             }
         ]
+        "part_of_speach": "6",
+        "resource": "7",
+        "example_sentence": "8",
+        "dialect": "9",
+        "img": "10" 
     }
 }
