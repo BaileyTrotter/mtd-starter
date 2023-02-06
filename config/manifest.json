@@ -1,6 +1,6 @@
 {
     "file_type": "csv",
-    "name": "data",
+    "name": "birds",
     "display": "word",
     "compare": "compare_form",
     "sorting": "sort_form",
@@ -24,14 +24,14 @@
         "definition": "0",
         "word": "1",
         "theme": "2",
-        "audio": [
-            {
-                "speaker": "3",
-                "filename": "4"
-            }
         ],
         "optional": [
             {
+                "audio": [
+                    {
+                        "speaker": "3",
+                        "filename": "4"
+                    }
                 "Pronunciation": "5"
             }
         ]
