@@ -23,17 +23,24 @@
     "targets": {
         "definition": "0",
         "word": "1",
-        "theme": "2",
+        "part of speech": "2",
+        "theme": "3",
+        "source": "4",
         "audio": [
             {
-                "speaker": "3",
-                "filename": "4"
+                "speaker": "5",
+                "filename": "6"
+            }
+        ],
+        "example sentence": [
+            {
+                "speaker": "7",
+                "filename": "8",
             }
         ],
         "optional": [
             {
-     
-                "pronunciation": "5"
+                "pronunciation": "9"
             }
         ]
     }
