@@ -24,7 +24,6 @@
         "definition": "0",
         "word": "1",
         "theme": "2",
-        ],
         "optional": [
             {
                 "audio": [
@@ -32,6 +31,7 @@
                         "speaker": "3",
                         "filename": "4"
                     }
+                ],
                 "Pronunciation": "5"
             }
         ]
