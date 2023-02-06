@@ -5,7 +5,7 @@
         "optional_field_title": "Optional Info",
         "alphabet": "../alphabet.csv"
     },
-    "birds": [
+    "data": [
         {
             "manifest": "./manifest.json",
             "resource": "../data/data.csv"
