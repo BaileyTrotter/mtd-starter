@@ -23,6 +23,9 @@
     "targets": {
         "definition": "0",
         "word": "1",
+        "part of speech": "2",
+        "theme": "3",
+        "source": "4",
         "audio": [
             {
                 "speaker": "5",
@@ -37,10 +40,7 @@
         ],
         "optional": [
             {
-                "pronunciation": "9",
-                "part of speech": "2",
-                "theme": "3",
-                "source": "4"
+                "pronunciation": "9"
             }
         ]
     }
