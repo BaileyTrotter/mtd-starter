@@ -23,6 +23,7 @@
     "targets": {
         "definition": "0",
         "word": "1",
+        "POS": "2",
         "audio": [
             {
                 "speaker": "5",
@@ -31,7 +32,6 @@
         ],
         "optional": [
             {
-                "POS": "2",
                 "theme": "3",
                 "source": "4",
                 "pronunciation": "9",
