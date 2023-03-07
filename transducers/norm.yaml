@@ -1,4 +1,4 @@
-mapping: norm.csv
+mapping: norm-test.csv
 norm_form: NFC
 escape_special: true
 case_sensitive: false
