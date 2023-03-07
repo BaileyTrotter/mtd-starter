@@ -1,0 +1,6 @@
+mapping: SFN-approx-test.csv
+norm_form: NFC
+escape_special: true
+case_sensitive: false
+authors:
+  - Bailey

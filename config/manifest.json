@@ -9,7 +9,8 @@
             "source": "word",
             "target": "compare_form",
             "functions": [
-                "../transducers/SFN-approx.yaml"
+                "../transducers/norm-test.yaml",
+                "../transducers/SFN-approx-test.yaml"
             ]
         },
         {
