@@ -6,6 +6,7 @@
     "sorting": "sort_form",
     "transducers": [
         {
+            "source": "word",
             "target": "compare_form",
             "functions": [
                 "../transducers/norm-test.yaml",
