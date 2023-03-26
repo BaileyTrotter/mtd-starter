@@ -29,8 +29,6 @@
             {
                 "speaker": "5",
                 "filename": "6"
-                "speaker": "11",
-                "filename": "12"
             }
         ],
         "optional": [
@@ -39,10 +37,11 @@
                 "source": "4",
                 "pronunciation": "9",
                 "cross-reference": "10",
-                "example_sentence_1": [
+                "example_sentence_1": "7"
+                "example_sentence_1_audio": [
                     {
-                        "example_sentence_1_audio_1_speaker": "7",
-                        "example_sentence_1_audio_1_fn": "8"
+                        "example_sentence_1_audio_1_speaker": "8",
+                        "example_sentence_1_audio_1_fn": "9"
                     }
                 ]
             }
