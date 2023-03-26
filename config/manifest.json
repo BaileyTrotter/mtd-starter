@@ -25,8 +25,8 @@
         "definition": "0",
         "word": "1",
         "POS": "2",
-        "theme": "3"
-        "secondary_theme": "4"
+        "theme": "3",
+        "secondary_theme": "4",
         "audio": [
             {
                 "speaker": "5",
