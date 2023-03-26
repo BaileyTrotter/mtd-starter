@@ -34,16 +34,8 @@
             }
         ],
         "cross-reference": "7",
-        "example_sentence": [
-            {
-                "string": "8"
-            }
-        ],
-        "example_sentence_definition": [
-            {
-                "string": "9"
-            }
-        ],
+        "example_sentence": "8",
+        "example_sentence_definition": "9",
         "example_sentence_audio": [
                     {
                         "speaker": "10",
