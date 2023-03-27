@@ -24,19 +24,28 @@
     "targets": {
         "definition": "0",
         "word": "1",
-        "POS": "2",
+        "theme": "3",
+        "secondary_theme: "9",
         "audio": [
             {
                 "speaker": "5",
                 "filename": "6"
             }
         ],
+        "example_sentence_audio": [
+            [
+                {
+                    "filename": "8",
+                    "speaker": "7",
+                }
+            ]
+        ],
         "optional": [
             {
+                "part of speech": "2",
                 "theme": "3",
                 "source": "4",
                 "example sentence": "7",
-                "secondary_theme": "9",
                 "cross-reference": "10"
             }
         ]
