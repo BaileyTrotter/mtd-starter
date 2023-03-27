@@ -25,6 +25,7 @@
         "definition": "0",
         "word": "1",
         "POS": "2",
+        "example sentence": "7",
         "audio": [
             {
                 "speaker": "5",
@@ -36,13 +37,7 @@
                 "theme": "3",
                 "source": "4",
                 "secondary_theme": "9",
-                "cross-reference": "10",
-                "example_sentence": "7",
-                "example_sentence_audio": [
-                    {
-                        "filename": "8"
-                    }
-                ]
+                "cross-reference": "10"
             }
         ]
     }
