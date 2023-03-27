@@ -1,6 +1,7 @@
 {
     "file_type": "csv",
     "display": "word",
+    "name": "birds"
     "compare": "compare_form",
     "sorting": "sort_form",
     "transducers": [
@@ -23,7 +24,6 @@
     "targets": {
         "definition": "0",
         "word": "1",
-        "theme": "3",
         "secondary_theme": "9",
         "audio": [
             {
