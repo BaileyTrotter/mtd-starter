@@ -25,22 +25,25 @@
         "definition": "0",
         "word": "1",
         "POS": "2",
-        "theme": "3",
-        "secondary_theme": "4",
         "audio": [
             {
                 "speaker": "5",
                 "filename": "6"
             }
         ],
-        "cross-reference": "7",
-        "example_sentence": "8",
-        "example_sentence_definition": "9",
-        "example_sentence_audio": [
+        "optional": [
+            {
+                "theme": "3",
+                "source": "4",
+                "secondary_theme": "9",
+                "cross-reference": "10",
+                "example_sentence_1": [
                     {
-                        "speaker": "10",
-                        "filename": "11"
+                        "example_sentence_1_audio_1_speaker": "7",
+                        "example_sentence_1_audio_1_fn": "8"
                     }
                 ]
             }
+        ]
     }
+}
