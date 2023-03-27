@@ -25,16 +25,11 @@
         "definition": "0",
         "word": "1",
         "POS": "2",
-        "audio_1": [
+        "example sentence": "7"
+        "audio": [
             {
                 "speaker": "5",
                 "filename": "6"
-            }
-        ],
-        "audio_2": [
-            {
-                "speaker": "7",
-                "filename": "8"
             }
         ],
         "optional": [
