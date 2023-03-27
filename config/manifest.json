@@ -25,11 +25,13 @@
         "definition": "0",
         "word": "1",
         "POS": "2",
-        "audio": [
+        "audio_1": [
             {
                 "speaker": "5",
                 "filename": "6"
-            },
+            }
+        ],
+        "audio_2": [
             {
                 "speaker": "7",
                 "filename": "8"
