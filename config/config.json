@@ -9,8 +9,6 @@
         {
             "manifest": "./manifest.json",
             "resource": "../data/birds.csv"
-        },
-            "manifest": "./manifest_bodyparts.json",
-            "resource": "./data/body_parts.csv"
+        }
     ]
 }
