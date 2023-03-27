@@ -39,9 +39,8 @@
                 "cross-reference": "10",
                 "example_sentence": [
                     {
-                        "example_sentence": "7",
-                        "example_sentence_audio": "8"
-                        "example_sentence_speaker": "11"
+                        "example sentence": "7",
+                        "example sentence audio": "8"
                     }
                 ]
             }
