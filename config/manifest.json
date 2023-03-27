@@ -37,10 +37,10 @@
                 "source": "4",
                 "secondary_theme": "9",
                 "cross-reference": "10",
-                "example_sentence_1": [
+                "example_sentence": [
                     {
-                        "example_sentence_1_audio_1_speaker": "7",
-                        "example_sentence_1_audio_1_fn": "8"
+                        "example sentence": "7",
+                        "example sentence audio": "8"
                     }
                 ]
             }
