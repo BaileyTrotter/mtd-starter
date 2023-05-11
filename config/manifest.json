@@ -22,8 +22,8 @@
         }
     ],
     "targets": {
-        "definition": "1",
-        "word": "0",
+        "definition": "0",
+        "word": "1",
         "theme": "2",
         "secondary_theme": "3",
         "optional": [
