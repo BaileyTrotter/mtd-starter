@@ -22,30 +22,15 @@
         }
     ],
     "targets": {
-        "definition": "0",
-        "word": "1",
-        "secondary_theme": "9",
-        "audio": [
-            {
-                "speaker": "5",
-                "filename": "6"
-            }
-        ],
-        "example_sentence_audio": [
-            [
-                {
-                    "filename": "8",
-                    "speaker": "7"
-                }
-            ]
-        ],
+        "definition": "1",
+        "word": "0",
+        "theme": "2",
+        "secondary_theme": "3",
+        "speaker": "4",
+        "speaker": "5",
         "optional": [
             {
-                "part of speech": "2",
-                "theme": "3",
-                "source": "4",
-                "example sentence": "7",
-                "cross-reference": "10"
+                "source": "6"
             }
         ]
     }
