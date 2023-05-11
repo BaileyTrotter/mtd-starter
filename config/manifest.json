@@ -26,10 +26,10 @@
         "word": "0",
         "theme": "2",
         "secondary_theme": "3",
-        "speaker": "4",
-        "speaker": "5",
         "optional": [
             {
+                "speaker one": "4",
+                "speaker two": "5",
                 "source": "6"
             }
         ]
