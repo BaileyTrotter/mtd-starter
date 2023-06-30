@@ -7,9 +7,10 @@
     "transducers": [
         {
             "source": "word",
-            "target": "word",
+            "target": "compare_form",
             "functions": [
                 "../transducers/norm-test.yaml",
+                "../transducers/SFN-approx-test.yaml"
             ]
         },
         {
