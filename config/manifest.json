@@ -1,7 +1,7 @@
 {
     "file_type": "csv",
     "display": "word",
-    "name": "birds",
+    "name": "noun dictionary",
     "compare": "compare_form",
     "sorting": "sort_form",
     "transducers": [
