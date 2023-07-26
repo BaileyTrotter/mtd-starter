@@ -1,11 +1,12 @@
 {
     "file_type": "csv",
     "display": "word",
-    "name": "birds",
+    "name": "noun dictionary",
     "compare": "compare_form",
     "sorting": "sort_form",
     "transducers": [
         {
+            "source" "word",
             "target": "compare_form",
             "functions": [
                 "../transducers/norm-test.yaml",
