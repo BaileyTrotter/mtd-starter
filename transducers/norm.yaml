@@ -1,4 +1,4 @@
-mapping: SFN-approx-test.csv
+mapping: norm.csv
 norm_form: NFC
 escape_special: true
 case_sensitive: false
