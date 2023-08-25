@@ -9,7 +9,7 @@
             "source": "word",
             "target": "compare_form",
             "functions": [
-                "../transducers/norm.yaml",
+                "../transducers/norm_composite.yaml",
                 "../transducers/SFN-approx.yaml"
             ]
         },
