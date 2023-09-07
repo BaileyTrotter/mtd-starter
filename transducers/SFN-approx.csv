@@ -1,11 +1,11 @@
-d,D
-dh,D
 ddh,D
-t,T
-tʼ,T
-th,T
-th',T
+dh,D
+d,D
 tth',T
+th',T
+th,T
+tʼ,T
+t,T
 mb,M
 m,M
 n,M
@@ -16,14 +16,15 @@ ghw,G
 kw,K
 khw,K
 ł,L
-tlʼ,TL
 tl,TL
+tlʼ,TL
 tsʼ,S
 ts,S
 sh,S
 zh,S
 dz,S
 chʼ,CH
+ch, CH
 í,I
 ì,I
 ī,I
