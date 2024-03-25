@@ -23,13 +23,12 @@
     ],
     "targets": {
         "definition": "0",
-        "word": "1",
-        "theme": "2",
-        "secondary_theme": "3",
+        "word": "2",
+        "theme": "3",
+        "secondary_theme": "4",
         "optional": [
             {
-                "speaker one": "4",
-                "speaker two": "5",
+                "audio": "1",
                 "source": "6"
             }
         ]
