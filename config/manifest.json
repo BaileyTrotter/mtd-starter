@@ -22,15 +22,13 @@
         }
     ],
     "targets": {
-        "definition": "0",
+        "definition": "1",
         "word": "2",
-        "theme": "3",
-        "secondary_theme": "4",
-        "optional": [
-            {
-                "audio": "1",
-                "source": "6"
+        "theme": "0",
+        "audio": [
+            { "filename": "3"
             }
-        ]
+        ],
+        "source": "4"
     }
 }
