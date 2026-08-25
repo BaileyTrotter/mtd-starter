@@ -8,7 +8,7 @@
     "data": [
         {
             "manifest": "./manifest.json",
-            "resource": "../data/noundictionary.csv"
+            "resource": "../data/dictionary.csv"
         }
     ]
 }
