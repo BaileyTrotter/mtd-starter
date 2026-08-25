@@ -1,7 +1,7 @@
 {
     "file_type": "csv",
     "display": "word",
-    "name": "noun dictionary",
+    "name": "dictionary",
     "compare": "compare_form",
     "sorting": "sort_form",
     "transducers": [
@@ -25,12 +25,16 @@
         "theme": "0",
         "definition": "1",
         "word": "2",
-        "audio": [
-            {   
-                "filename": "3",
-                "speaker": "4"
+        "optional": [
+            {
+                "audio": [
+                    {
+                        "filename": "3",
+                        "speaker": "4"
+                    }
+                        ]
             }
-        ],
+                    ],
         "source": "5"
-    }   
+                }
 }
