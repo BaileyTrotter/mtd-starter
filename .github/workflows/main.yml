@@ -33,7 +33,7 @@ jobs:
         run: cd config && mtd export . js . && cp config-*.js ../config.js && cp dict_cached-*.js ../dict_cached.js
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v4
+        uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
