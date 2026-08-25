@@ -25,11 +25,15 @@
         "theme": "0",
         "definition": "1",
         "word": "2",
-        "audio": [
+        "optional": [
+         {
+            "audio": [
                     {
                         "filename": "3",
                         "speaker one": "4"
                     }
+            ]
+         }
         ],
         "source": "5"
                 }
