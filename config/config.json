@@ -1,6 +1,6 @@
 {
     "config": {
-        "L1": "dan-ki",
+        "L1": "danki",
         "L2": "English",
         "optional_field_title": "Optional Info",
         "alphabet": "../alphabet.csv"
