@@ -25,16 +25,12 @@
         "theme": "0",
         "definition": "1",
         "word": "2",
-        "optional": [
-            {
-                "audio": [
+        "audio": [
                     {
                         "filename": "3",
                         "speaker": "4"
                     }
-                        ]
-            }
-                    ],
+        ],
         "source": "5"
                 }
 }
